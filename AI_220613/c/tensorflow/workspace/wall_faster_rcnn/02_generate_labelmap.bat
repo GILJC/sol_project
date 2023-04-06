@@ -1,0 +1,1 @@
+python ../../scripts/preprocessing/generate_labelmap.py

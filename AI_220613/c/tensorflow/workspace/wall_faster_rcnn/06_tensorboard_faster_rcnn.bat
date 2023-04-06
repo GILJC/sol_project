@@ -1,0 +1,1 @@
+tensorboard --logdir=models/my_faster_rcnn_resnet50_v1_fpn

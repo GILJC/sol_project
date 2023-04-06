@@ -1,0 +1,1 @@
+python ../../models/research/object_detection/model_main_tf2.py --num_workers=1 --model_dir=models/my_faster_rcnn_resnet50_v1_fpn --pipeline_config_path=models/my_faster_rcnn_resnet50_v1_fpn/pipeline.config
